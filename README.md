@@ -1,6 +1,6 @@
 # Databases-Python
 
-Branch ====>
+Branches ====>
 
 Zamora => Manuel Alejandro Zamora Tovar
 
